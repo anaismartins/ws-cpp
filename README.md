@@ -1,1 +1,47 @@
-# ws-cpp
+# C++ Basics Workshop
+
+Welcome to the **C++ Basics Workshop**! This workshop is made as a part of a set of basic tools workshops for the [HackerSchool](http://hackerschool.tecnico.ulisboa.pt/) recruitment.
+It follows the main topics for beginners in programming and in C/C++, specifically:
+
+* Why C++?
+* C++ is a Compiled Language: G++
+* My First Program in C++: Hello World!
+* A Quick Overview of Makefiles
+* Input/Output (for the Terminal and Files)
+* Variables
+* Operators
+* If Statements, Loops and Other Useful Logic
+* Functions
+* Object Oriented Programming
+
+It is accompanied by a presentation, also published in this repository.
+
+---
+
+## Setup/Installation
+
+**Linux:**
+
+For installing the C++ Compiler on Linux, simply run the following command on a terminal:
+
+```
+sudo apt install g++
+```
+
+Check if the installation was done correctly by running:
+
+```
+g++ --version
+```
+
+
+**MacOS:**
+
+For installing the C++ Compiler on MacOS, run `g++` on a terminal. If g++ is not installed, you should get a popup asking if you'd like to install the compiler; click **Install**.
+
+Check if the installation was done correctly by running `g++` again. The terminal should respond with `no input files`.
+
+
+**Windows:**
+
+For installing the C++ Compiler on Windows, start by installing Mingw-w64, by following the instructions on the 
