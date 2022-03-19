@@ -1,7 +1,7 @@
 # C++ Basics Workshop
 
 Welcome to the **C++ Basics Workshop**! This workshop is made as a part of a set of basic tools workshops for the [HackerSchool](http://hackerschool.tecnico.ulisboa.pt/) recruitment.
-It follows the main topics for beginners in programming and in C/C++, specifically:
+It follows the main topics for beginners in programming and in C/C++ specifically:
 
 * Why C++?
 * C++ is a Compiled Language: G++
