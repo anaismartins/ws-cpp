@@ -48,8 +48,17 @@ For installing the C++ Compiler on Windows, start by installing Mingw-w64, by fo
 
 1. Open **Settings** and go to **Edit environment variables for your account**.
 2. Select **PATH** and click **Edit**.
-3. Select **New** and add the folder path to the **bin** folder on your **mingw64** folder. If you used the default folder path given by MSYS2, your path should be `C:\msys64\migw64\bin`. If not, you can check the path by getting to the **bin** folder using yout File Explorer
+3. Select **New** and add the folder path to the **bin** folder on your **mingw64** folder. If you used the default folder path given by MSYS2, your path should be `C:\msys64\migw64\bin`. If not, you can check the path by getting to the **bin** folder using your File Explorer
+
+![image](https://user-images.githubusercontent.com/80634052/159275214-1225c148-145c-430e-b073-e638af0128f7.png)
+
+and clicking the path bar. The path should appear in text, like so
+
+![image](https://user-images.githubusercontent.com/80634052/159275863-7f254f96-377f-4ff7-91dd-713031b24abd.png)
 
 
+Check if the installation was done correctly by running the following command on a terminal:
 
-
+```
+g++ --version
+```
