@@ -4,8 +4,8 @@ Welcome to the **C++ Basics Workshop**! This workshop is made as a part of a set
 It follows the main topics for beginners in programming and in C/C++ specifically:
 
 * Why C++?
-* C++ is a Compiled Language: G++
 * My First Program in C++: Hello World!
+* C++ is a Compiled Language: G++
 * A Quick Overview of Makefiles
 * Input/Output (for the Terminal and Files)
 * Variables
