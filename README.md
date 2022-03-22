@@ -5,6 +5,7 @@ It follows the main topics for beginners in programming and in C/C++ specificall
 
 * Why C++?
 * My First Program in C++: Hello World!
+* Namespace std
 * C++ is a Compiled Language: G++
 * A Quick Overview of Makefiles
 * Input/Output (for the Terminal and Files)
