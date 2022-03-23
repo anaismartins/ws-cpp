@@ -7,9 +7,9 @@ It follows the main topics for beginners in programming and in C/C++ specificall
 * My First Program in C++: Hello World!
 * Namespace std
 * C++ is a Compiled Language: G++
-* A Quick Overview of Makefiles
-* Input/Output (for the Terminal and Files)
+* A Quick Overview of Makefiles (?)
 * Variables
+* Input/Output (for the Terminal and Files)
 * Operators
 * If Statements, Loops and Other Useful Logic
 * Functions
